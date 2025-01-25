@@ -48,7 +48,6 @@ Developed by the creators of Pydantic, **PydanticAI** is a type-safe, model-agno
 
 ### Installation
 
-```bash
 # Clone repository
 git clone https://github.com/your-org/pydantic-ai-examples.git
 cd pydantic-ai-examples
